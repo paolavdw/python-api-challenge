@@ -1,6 +1,8 @@
 # python-api-challenge
 Module 6: python-api-challenge
 
+The WeatherPy folder has the following files: VacationPy_PVDW, VacationPy_starter, WeatherPy_PVDW, WeatherPy_Starter, README, and output_data subfolder (containing: cities.csv, & 4 fig files). These files have been submitted to document the full analysis. Please note that Weather_PVDW & Vacation_PVDW are my Jupyter notebooks to this folder. They contain the main script used to run my code & analysis based on the WeatherPy_starter & VacationPy_starter codes.
+
 Background
 Data's true power is its ability to definitively answer questions. So, let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What is the weather like as we approach the equator?"
 
